@@ -75,4 +75,5 @@ highlight_name: false
 Rebecca Hirst is both a postdoctoral researcher at Trinity College Dublin and Science officer for Open Science Tools ltd. Her research focuses on multisenory perception and attention across the lifespan. Currently she works with The Irish Longitudinal Study on Ageing (TILDA) investigating multisensory perception in a large sample of adults aged over 50 years. 
 
 Rebecca's PhD used psychophysics and EEG to investigate multisensory distractions. As part of this she was a visiting scholar at Macquarie University, Sydney, where she studied the validation of portable EEG systems for use in research.
+
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
