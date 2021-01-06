@@ -57,11 +57,11 @@ social:
   link: https://uk.linkedin.com/in/dr-rebecca-hirst-562588148
 
 # Link to a PDF of your resume/CV.
-# To use: copy your resume to `static/media/Rebecca_Hirst_CV_170320.pdf`, enable `ai` icons in `params.toml`, 
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: media/Rebecca_Hirst_CV_170320.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/Rebecca_Hirst_CV_170320.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "becca@opensciencetools.org"
