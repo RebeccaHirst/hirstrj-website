@@ -7,17 +7,17 @@ widget: pages
 headless: true
 
 # deactivate wigit (don't present it)
-active: false
+active: true
 
 # Order that this section appears on the page.
 weight: 60
 
-title: Tutorials
-subtitle: Tutorials for creating experiments in PsychoPy
+title: Code
+subtitle: Bits of code that might be useful
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: post
+  page_type: code
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
