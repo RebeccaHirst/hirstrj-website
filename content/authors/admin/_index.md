@@ -72,8 +72,8 @@ email: "becca@opensciencetools.org"
 highlight_name: true
 ---
 
-I am a postdoctoral researcher at Trinity College Dublin and Science officer for Open Science Tools ltd. My research focuses on multisenory perception and attention across the lifespan. Currently I works with The Irish Longitudinal Study on Ageing (TILDA) investigating multisensory perception in a large sample of adults aged over 50 years. 
+I am a Science officer at Open Science Tools and postdoctoral researcher at Trinity College Dublin. I have a passion for helping scientists make behavioural experiments and helping others gain confidence with coding. In my role at Open Science Tools, I support scientits through consultancy, workshops and generating free online learning materials. 
 
-I have a passion for helping scientists make behavioural experiments and helping others gain confidence with coding. In my role at Open Science Tools, I support scientits through consultancy, workshops and generating free online learning materials. If you need help creating a behavioural experiment, get in touch!
+My own research focuses on multisenory perception and attention across the lifespan. Currently I works with the Multisensory Cognition Lab in Dublin and The Irish Longitudinal Study on Ageing (TILDA) investigating multisensory perception in a large sample of adults aged over 50 years.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
