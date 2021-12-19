@@ -48,15 +48,24 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/HirstRj
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.com/citations?user=c4fmvbYAAAAJ&hl=en
-- icon: github
-  icon_pack: fab
-  link: https://github.com/rebeccahirst
 - icon: linkedin
   icon_pack: fab
   link: https://uk.linkedin.com/in/dr-rebecca-hirst-562588148
+- icon: tiktok
+  icon_pack: fab
+  link: https://www.tiktok.com/@hirstrj?
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?user=c4fmvbYAAAAJ&hl=en
+- icon: osf
+  icon_pack: ai
+  link: https://osf.io/au3rv/
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Rebecca-Hirst
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rebeccahirst
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -72,8 +81,8 @@ email: "becca@opensciencetools.org"
 highlight_name: true
 ---
 
-I am a Science officer at Open Science Tools and postdoctoral researcher at Trinity College Dublin. I have a passion for helping scientists make behavioural experiments and helping others gain confidence with coding. In my role at Open Science Tools, I support scientists through consultancy, workshops and generating free online learning materials. 
+I am a Science officer at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools</a>  and postdoctoral researcher at Trinity College Dublin. I have a passion for helping scientists make behavioural experiments and helping others gain confidence with coding. In my role at Open Science Tools, I support scientists through <a href="https://psychopy.org/consultancy.html" target="_blank">consultancy</a>, <a href="https://workshops.psychopy.org/" target="_blank">workshops</a> and generating free <a href="https://workshops.psychopy.org/3days/index.html#day-1-building-better-experiments" target="_blank">online learning materials</a>. 
 
-My own research focuses on multisenory perception and attention across the lifespan using a combination of psychophysics and EEG. Currently I works with the Multisensory Cognition Lab in Dublin and The Irish Longitudinal Study on Ageing (TILDA) investigating multisensory perception in a large sample of adults aged over 50 years.
+My own research focuses on multisenory perception and attention across the lifespan using a combination of psychophysics and EEG. Currently I works with the <a href="https://multisensorytcd.com/" target="_blank">Multisensory Cognition Lab</a> and <a href="https://tilda.tcd.ie/" target="_blank">The Irish Longitudinal Study on Ageing (TILDA)</a> investigating multisensory perception in a large sample of adults aged over 50 years.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
