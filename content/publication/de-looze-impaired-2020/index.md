@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: 'Impaired orthostatic heart rate recovery is associated with smaller thalamic
-  volume: Results from The Irish Longitudinal Study on Aging ( textlessspan style=\"font-variant:small-caps;\"textgreaterTILDAtextless/spantextgreater
-  )'
+  volume: Results from The Irish Longitudinal Study on Aging'
 subtitle: ''
 summary: ''
 authors:
@@ -27,7 +26,7 @@ draft: false
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
   caption: ''
-  focal_point: ''
+  focal_point: 'Center'
   preview_only: false
 
 # Projects (optional).
