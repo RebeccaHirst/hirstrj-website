@@ -9,6 +9,9 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
+# deactivate wigit (don't present it)
+active: false
+
 title: 'Recent & Upcoming Talks'
 subtitle:
 

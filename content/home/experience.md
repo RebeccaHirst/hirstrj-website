@@ -22,24 +22,37 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: CSO (Chief Science Officer)
+    company: Open Science Tools
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Nottingham, UK
+    date_start: '2021-06-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+        * Management
+        * Consultancy
+        * Teaching
+
+  - title: Postdoctoral researcher
+    company: Trinity College Dublin
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Dublin, Ireland
+    date_start: '2019-01-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Research
+        * Analysis
+        * Big Data
+        
+  - title: Science Officer
+    company: Open Science Tools
+    company_url: ''
+    location: Nottingham, UK
+    date_start: '2020-09-01'
+    date_end: '2021-05-31'
+    description: Taught workshops, developed experiments and improved documentation for those using PsychoPy, PsychoJS and Pavlovia.
 ---
