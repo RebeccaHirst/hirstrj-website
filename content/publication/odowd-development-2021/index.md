@@ -36,7 +36,7 @@ projects: []
 publishDate: '2021-12-19T11:15:54.188536Z'
 publication_types:
 - '2'
-abstract: ''
+abstract: 'Sensitivity to the temporal coherence of visual and tactile signals increases perceptual reliability and is evident during infancy. However, it is not clear how, or whether, bidirectional visuotactile interactions change across childhood. Furthermore, no study has explored whether viewing a body modulates how children perceive visuotactile sequences of events. Here, children aged 5–7 years (n = 19), 8 and 9 years (n = 21), and 10–12 years (n = 24) and adults (n = 20) discriminated the number of target events (one or two) in a task-relevant modality (touch or vision) and ignored distractors (one or two) in the opposing modality. While participants performed the task, an image of either a hand or an object was presented. Children aged 5–7 years and 8 and 9 years showed larger crossmodal interference from visual distractors when discriminating tactile targets than the converse. Across age groups, this was strongest when two visual distractors were presented with one tactile target, implying a “fission-like” crossmodal effect (perceiving one event as two events). There was no influence of visual context (viewing a hand or non-hand image) on visuotactile interactions for any age group. Our results suggest robust interference from discontinuous visual information on tactile discrimination of sequences of events during early and middle childhood. These findings are discussed with respect to age-related changes in sensory dominance, selective attention, and multisensory processing.'
 publication: '*Journal of Experimental Child Psychology*'
 doi: 10.1016/j.jecp.2021.105094
 links:
