@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Rebecca J. Hirst
+title: Dr. Rebecca J. Hirst
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Science officer and Postdoctoral researcher
+role: Cognitive Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -16,7 +16,7 @@ organizations:
   url: https://tilda.tcd.ie/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include multisensory perception and experimental design.
 
 # Interests to show in About widget
 interests:
@@ -69,11 +69,11 @@ social:
 email: "becca@opensciencetools.org"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-Rebecca Hirst is both a postdoctoral researcher at Trinity College Dublin and Science officer for Open Science Tools ltd. Her research focuses on multisenory perception and attention across the lifespan. Currently she works with The Irish Longitudinal Study on Ageing (TILDA) investigating multisensory perception in a large sample of adults aged over 50 years. 
+I am a postdoctoral researcher at Trinity College Dublin and Science officer for Open Science Tools ltd. My research focuses on multisenory perception and attention across the lifespan. Currently I works with The Irish Longitudinal Study on Ageing (TILDA) investigating multisensory perception in a large sample of adults aged over 50 years. 
 
-Rebecca's PhD used psychophysics and EEG to investigate multisensory distractions. As part of this she was a visiting scholar at Macquarie University, Sydney, where she studied the validation of portable EEG systems for use in research.
+I have a passion for helping scientists make behavioural experiments and helping others gain confidence with coding. In my role at Open Science Tools, I support scientits through consultancy, workshops and generating free online learning materials. If you need help creating a behavioural experiment, get in touch!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

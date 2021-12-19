@@ -26,7 +26,7 @@ experience:
     company: Open Science Tools
     company_url: ''
     location: Nottingham, UK
-    date_start: '2021-06-01'
+    date_start: '2021-08-01'
     date_end: ''
     description: |2-
         Responsibilities include:
@@ -53,6 +53,6 @@ experience:
     company_url: ''
     location: Nottingham, UK
     date_start: '2020-09-01'
-    date_end: '2021-05-31'
+    date_end: '2021-07-31'
     description: Taught workshops, developed experiments and improved documentation for those using PsychoPy, PsychoJS and Pavlovia.
 ---
