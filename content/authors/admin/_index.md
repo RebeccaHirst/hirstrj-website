@@ -85,4 +85,4 @@ I am a Science officer at <a href="https://opensciencetools.org/" target="_blank
 
 My own research focuses on multisenory perception and attention across the lifespan using a combination of psychophysics and EEG. Currently I works with the <a href="https://multisensorytcd.com/" target="_blank">Multisensory Cognition Lab</a> and <a href="https://tilda.tcd.ie/" target="_blank">The Irish Longitudinal Study on Ageing (TILDA)</a> investigating multisensory perception in a large sample of adults aged over 50 years.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "static/media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
