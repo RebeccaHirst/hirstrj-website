@@ -42,4 +42,4 @@ design:
   #   4 = Citation (publication only)
   view: 2
 ---
-Most of the tutorials I create will be shared directly through the <a href="https://www.youtube.com/c/psychopy_official" target="_blank">PsychoPy Youtube Channel</a> but if your curious about the types of things I like to talk about I'll share some of the more recent tutorials created by me here.
+Most of the tutorials I create will be shared directly through the <a href="https://www.youtube.com/c/psychopy_official" target="_blank">PsychoPy Youtube Channel</a> but if you're curious about the types of things I like to talk about I'll share some of the more recent tutorials created by me here.
