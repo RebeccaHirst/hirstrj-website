@@ -83,6 +83,6 @@ highlight_name: true
 
 I am a Science officer at <a href="https://opensciencetools.org/" target="_blank">Open Science Tools</a>  and postdoctoral researcher at Trinity College Dublin. I have a passion for helping scientists make behavioural experiments and helping others gain confidence with coding. In my role at Open Science Tools, I support scientists through <a href="https://psychopy.org/consultancy.html" target="_blank">consultancy</a>, <a href="https://workshops.psychopy.org/" target="_blank">workshops</a> and generating free <a href="https://workshops.psychopy.org/3days/index.html#day-1-building-better-experiments" target="_blank">online learning materials</a>. 
 
-My own research focuses on multisenory perception and attention across the lifespan using a combination of psychophysics and EEG. Currently I works with the <a href="https://multisensorytcd.com/" target="_blank">Multisensory Cognition Lab</a> and <a href="https://tilda.tcd.ie/" target="_blank">The Irish Longitudinal Study on Ageing (TILDA)</a> investigating multisensory perception in a large sample of adults aged over 50 years.
+My own research focuses on multisenory perception and attention across the lifespan using a combination of psychophysics and EEG. Currently I works with the <a href="https://multisensorytcd.com/" target="_blank">Multisensory Cognition Lab</a>  investigating multisensory category perception.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
